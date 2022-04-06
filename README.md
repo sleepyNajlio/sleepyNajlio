@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![parmarti 42 stats](https://badge42.herokuapp.com/api/stats/nloutfi)](https://github.com/nloutfi/badge42)
+<!--[![parmarti 42 stats](https://badge42.herokuapp.com/api/stats/nloutfi)](https://github.com/nloutfi/badge42)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyNajlio&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
