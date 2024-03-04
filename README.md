@@ -2,9 +2,12 @@
 
 I'm a passionate software developer and computer science student based in Morocco. With a background in the 1337 school and the Higher School of Technology, I've developed a strong foundation in problem-solving and crafting innovative ideas.
 
-## 📚 Current Learning Journey
 
-Diving deep into the world of Next.js to build modern web applications.
+## stack Skills:
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyNajlio&layout=compact&theme=dark&hide_border=true)
 
 ## 🤝 Open for Collaboration
 
