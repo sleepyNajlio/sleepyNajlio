@@ -11,6 +11,8 @@ I'm a passionate software developer and computer science student based in Morocc
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/HTML5-%23000000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-%23000000?&logo=css3)
+![XML](https://img.shields.io/badge/XML-black?logo=htmx&logoColor=white)
+
 
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
@@ -19,6 +21,8 @@ I'm a passionate software developer and computer science student based in Morocc
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-%23000000?style=for-the-badge&logo=react)
 ![NestJS](https://img.shields.io/badge/Nestjs-%23000000?style=for-the-badge&logo=nestjs)
+![Odoo](https://img.shields.io/badge/odoo-black?style=for-the-badge&logo=odoo&logoColor=%23714B67)
+
 
 
 
